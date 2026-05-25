@@ -1,0 +1,1 @@
+s1(09Sep2025:05:06:58):  xrun -clean -input probe.tcl -uvm ./rtl_top.sv testbench.sv -access +rwc 
